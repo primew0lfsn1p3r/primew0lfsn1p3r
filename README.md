@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-<img src="https://drive.google.com/uc?export=view&id=1RkCpU1vzbafnZnJIYYg6-8ODRoIlaKfJ" width="160" style="border-radius: 50%; border: 2px solid #33ff00;" alt="PRIME w0lfsn1p3r Logo">
+<img src="https://drive.google.com/uc?export=view&id=1RkCpU1vzbafnZnJIYYg6-8ODRoIlaKfJ" width="300" style="border-radius: 60%; border: 5px solid #33ff00;" alt="PRIME w0lfsn1p3r Logo">
 
 # 🐺 PRIME w0lfsn1p3r 🐺
 **`Blockchain Security` • `Smart Contract Auditor` • `Bug Bounty Hunter`**
